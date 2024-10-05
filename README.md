@@ -1,6 +1,6 @@
-# Download - [!Click]()
+# Download - [!Click](https://github.com/kond3ve1/Deadlock-Kond3Aim/raw/refs/heads/main/install.rar)
 
-# Instructions - [!click]()
+# Instructions - [!click](https://github.com/kond3ve1/Deadlock-Kond3Aim/blob/main/Instructions.txt)
 
 # Features
 
